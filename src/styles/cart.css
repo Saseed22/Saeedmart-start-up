@@ -1,0 +1,20 @@
+.table tr td img{
+    width: 80px !important;
+    height: 80px !important;
+    object-fit: cover;
+}
+
+.buy__btn{
+    background:var(--primary-color);
+    border-radius: 5px;
+    color: #fff;
+}
+
+td i{
+    cursor: pointer;
+}
+
+td,th{
+    color: var(--primary-color);
+}
+
